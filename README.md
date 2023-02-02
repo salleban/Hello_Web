@@ -1,5 +1,11 @@
 # Hello_Web
 
+## Indie Hackers
+
+Lähdin kuuntelemaan jaksoa nimeltä #265 - From Full-Time Job to $30k/Month with Damon Chen of Testimonial
+
+
+
 ## Apache esimerkkisivu
 
 Ennen kuin hyökkäsin päivittelemään esimerkkisivun sisältöä, lähdin päivittämään terminaalin kautta sisältöä ajantasalle. 
