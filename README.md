@@ -5,7 +5,11 @@ Lähdin kuuntelemaan jaksoa nimeltä #257 - From Indie Hacker to $200M+ with Pat
 
 - Patrick myi yrityksensä 200 miljoonalla dollarilla.
 - Erilaisten johtamistyylien spekulointi teknologia-alalla.
-- 
+- "Työryhmät": 9-17 työntekijät ja uran uurtajat.
+- Yrittäjyyden työtunnit menestykseen. Work smart, work hard.
+- Ongelmatilanteissa avunpyynnön tärkeys. 
+
+Kyseessä oli enemmänkin yrittäjyyden fiilistelyä sisältävä podcast kuin wepin hyödyntäminen. Aikataulu tuli vastaan, joten kerkesin vain tämän yhden kuunnella (TO klo 13:02.)
 
 ## Apache esimerkkisivu
 
