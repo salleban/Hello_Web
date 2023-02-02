@@ -108,10 +108,10 @@ Syötettyäni päivitin selaimen localhost sivuston ja sain seuraavan tiedon siv
 En ole varma haettiinko tässä kyseistä ratkaisua tähän tehtävä osioon, mutta tällainen tuli tehtyä. 
 
 Lähteet: 
-https://terokarvinen.com/
-https://www.youtube.com/watch?v=YSSIm0g00m4
-https://www.youtube.com/watch?v=_uZjqSyLWQM
-Google 
-Spotify
+- https://terokarvinen.com/
+- https://www.youtube.com/watch?v=YSSIm0g00m4
+- https://www.youtube.com/watch?v=_uZjqSyLWQM
+- Google 
+- Spotify
 
 
