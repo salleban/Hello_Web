@@ -105,6 +105,8 @@ Syötettyäni päivitin selaimen localhost sivuston ja sain seuraavan tiedon siv
 
 ![Helloweb h5](https://user-images.githubusercontent.com/100162043/216277879-331fa41c-0115-409a-8c33-4e20ab6fcedf.jpg)
 
+En ole varma haettiinko tässä kyseistä ratkaisua tähän tehtävä osioon, mutta tällainen tuli tehtyä. 
+
 Lähteet: 
 https://terokarvinen.com/
 https://www.youtube.com/watch?v=YSSIm0g00m4
