@@ -1,15 +1,18 @@
 # Hello_Web
 
 ## Indie Hackers
+Lähdin kuuntelemaan jaksoa nimeltä #257 - From Indie Hacker to $200M+ with Patrick Campbell of ProfitWell.
 
-Lähdin kuuntelemaan jaksoa nimeltä #265 - From Full-Time Job to $30k/Month with Damon Chen of Testimonial
-
-
+- Patrick myi yrityksensä 200 miljoonalla dollarilla.
+- Erilaisten johtamistyylien spekulointi teknologia-alalla.
+- 
 
 ## Apache esimerkkisivu
 
 Ennen kuin hyökkäsin päivittelemään esimerkkisivun sisältöä, lähdin päivittämään terminaalin kautta sisältöä ajantasalle. 
+
       $ sudo apt-get update
+      
 ![Päivitys](https://user-images.githubusercontent.com/100162043/216265975-f4a06a91-4ad1-4e56-a982-0ea9bb22ef27.jpg)
 
 Päivittelyn jälkeen lähdin muodostamaan esimerkkisivulle muutoksia. Tein alkuperäisen ohjeen mukaan ensin lisäämällä tekstin "Moi" sivustolle. 
