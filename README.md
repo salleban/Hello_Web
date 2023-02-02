@@ -111,6 +111,7 @@ Lähteet:
 https://terokarvinen.com/
 https://www.youtube.com/watch?v=YSSIm0g00m4
 https://www.youtube.com/watch?v=_uZjqSyLWQM
-Google
+Google 
+Spotify
 
 
