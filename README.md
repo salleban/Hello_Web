@@ -6,7 +6,7 @@ Ennen kuin hyökkäsin päivittelemään esimerkkisivun sisältöä, lähdin pä
       $ sudo apt-get update
 ![Päivitys](https://user-images.githubusercontent.com/100162043/216265975-f4a06a91-4ad1-4e56-a982-0ea9bb22ef27.jpg)
 
-Päivittelyn jälkeen lähdin muodostamaan esimerkkisivulle muutoksia. Tein alkuperäisen ohjeen mukaan ensin lisäämällä teksin "Moi" sivustolle. 
+Päivittelyn jälkeen lähdin muodostamaan esimerkkisivulle muutoksia. Tein alkuperäisen ohjeen mukaan ensin lisäämällä tekstin "Moi" sivustolle. 
 
       $ echo "Moi"|sudo tee /var/www/html/index.html
       
